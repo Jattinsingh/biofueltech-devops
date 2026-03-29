@@ -1,0 +1,26 @@
+ body {
+    font-family: Arial;
+    margin: 0;
+    background: #0f172a;
+    color: white;
+}
+
+nav {
+    background: #020617;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    color: #38bdf8;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.content {
+    padding: 30px;
+}
+
+h1 {
+    color: #22c55e;
+}
